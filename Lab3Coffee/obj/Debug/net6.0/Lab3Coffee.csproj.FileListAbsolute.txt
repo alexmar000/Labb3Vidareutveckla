@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\Lab3Coffee\Lab3Coffee\bin\Debug\net6.0\Lab3Coffee.exe
+C:\Users\alexm\source\repos\Lab3Coffee\Lab3Coffee\bin\Debug\net6.0\Lab3Coffee.deps.json
+C:\Users\alexm\source\repos\Lab3Coffee\Lab3Coffee\bin\Debug\net6.0\Lab3Coffee.runtimeconfig.json
+C:\Users\alexm\source\repos\Lab3Coffee\Lab3Coffee\bin\Debug\net6.0\Lab3Coffee.dll
+C:\Users\alexm\source\repos\Lab3Coffee\Lab3Coffee\bin\Debug\net6.0\ref\Lab3Coffee.dll
+C:\Users\alexm\source\repos\Lab3Coffee\Lab3Coffee\bin\Debug\net6.0\Lab3Coffee.pdb
+C:\Users\alexm\source\repos\Lab3Coffee\Lab3Coffee\obj\Debug\net6.0\Lab3Coffee.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Lab3Coffee\Lab3Coffee\obj\Debug\net6.0\Lab3Coffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Lab3Coffee\Lab3Coffee\obj\Debug\net6.0\Lab3Coffee.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Lab3Coffee\Lab3Coffee\obj\Debug\net6.0\Lab3Coffee.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Lab3Coffee\Lab3Coffee\obj\Debug\net6.0\Lab3Coffee.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Lab3Coffee\Lab3Coffee\obj\Debug\net6.0\Lab3Coffee.dll
+C:\Users\alexm\source\repos\Lab3Coffee\Lab3Coffee\obj\Debug\net6.0\ref\Lab3Coffee.dll
+C:\Users\alexm\source\repos\Lab3Coffee\Lab3Coffee\obj\Debug\net6.0\Lab3Coffee.pdb
+C:\Users\alexm\source\repos\Lab3Coffee\Lab3Coffee\obj\Debug\net6.0\Lab3Coffee.genruntimeconfig.cache
